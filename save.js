@@ -1,6 +1,4 @@
 document.getElementById('yourform').submit();
-function jumpnama() {window.open("/");}
-function link() {location.replace("/");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function jumpqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkqqtime() {location.replace("https://www.senisastra.com/");}
