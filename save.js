@@ -1,5 +1,6 @@
 document.getElementById('yourform').submit();
 function link() {location.replace("https://www.senisastra.com/");}
+function linkqq757bet() {location.replace("https://www.senisastra.com/");}
 function linkqqfreeslot() {location.replace("https://www.senisastra.com/");}
 function linkqq820() {location.replace("https://www.senisastra.com/");}
 function linkqq59bet() {location.replace("https://www.senisastra.com/");}
@@ -20,7 +21,6 @@ function linkqqpusat() {location.replace("https://www.senisastra.com/");}
 function linkqqcasino() {location.replace("https://www.senisastra.com/");}
 function linkqqpool() {location.replace("https://www.senisastra.com/");}
 function linkqqcalo() {location.replace("https://www.senisastra.com/");}
-function linkqq555q() {location.replace("https://www.senisastra.com/");}
 function linkqq59bet() {location.replace("https://www.senisastra.com/");}
 function linkqq820() {location.replace("https://www.senisastra.com/");}
 function linkqqfreeslot() {location.replace("https://www.senisastra.com/");}
@@ -46,6 +46,5 @@ function linkqqgacor() {location.replace("https://www.senisastra.com/");}
 function linkqqmaxwin() {location.replace("https://www.senisastra.com/");}
 function linksbobet() {location.replace("https://www.senisastra.com/");}
 function linkcmd365() {location.replace("https://www.senisastra.com/");}
-function linksport() {location.replace("https://www.senisastra.com/");}
 function linktutup() {location.replace("https://www.senisastra.com/");}
 function link() {location.replace("https://www.senisastra.com/");}
