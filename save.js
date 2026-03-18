@@ -1,4 +1,6 @@
 document.getElementById('yourform').submit();
+function link() {location.replace("https://www.senisastra.com/");}
+function linkqqgowin() {location.replace("https://www.senisastra.com/");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkqqtime() {location.replace("https://www.senisastra.com/");}
 function linkqqpusat() {location.replace("https://www.senisastra.com/");}
