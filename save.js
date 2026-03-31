@@ -14,7 +14,7 @@ const url = "https://www.senisastra.com/";
   "linkqqbola","linkqqtopwin","linkqqliga","linkqqpremium","linkqqokbet",
   "linkqqhobi","linkqqfunworld","linkqqlikebet","linkqqbetway","linkqqnowbet",
   "linkqqplaywin","linkqqhappy21","linkqqchamp","linkqqresmi","linkqqevent",
-  "linkcmd365","linktutup"
+  "linkcmd365","linktutup","linkqqtutup"
 ].forEach(name => {
   window[name] = () => location.replace(url);
 });
