@@ -70,7 +70,6 @@ function linkqqramai(){location.replace("https://qqbos99p1.com/");}
 function linkqqnike(){location.replace("https://qqbos99p1.com/");}
 function linkqqpuma(){location.replace("https://qqbos99p1.com/");}
 function linkqqbenar(){location.replace("https://qqbos99p1.com/");}
-function linkqqcoin(){location.replace("https://qqbos99p1.com/");}
 function linkqqmacau(){location.replace("https://qqbos99p1.com/");}
 function linkqqmaco(){location.replace("https://qqbos99p1.com/");}
 function linkqqnaga(){location.replace("https://qqbos99p1.com/");}
