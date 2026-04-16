@@ -1,5 +1,10 @@
-document.getElementById('yourform').submit();
 function link(){location.replace("https://qqbos99p1.com/");}
+document.getElementById('yourform').submit();
+function linkqqx(){location.replace("https://qqbos99p1.com/");}
+function linkqqtelegram(){location.replace("https://qqbos99p1.com/");}
+function linkqqtwitter(){location.replace("https://qqbos99p1.com/");}
+function linkqqfacebook(){location.replace("https://qqbos99p1.com/");}
+function linkqqlive(){location.replace("https://qqbos99p1.com/");}
 function linkqqseting(){location.replace("https://qqbos99p1.com/");}
 function linkqqmbg(){location.replace("https://qqbos99p1.com/");}
 function linkqq0(){location.replace("https://qqbos99p1.com/");}
