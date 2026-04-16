@@ -1,5 +1,9 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linknama(){location.replace("https://qqbos99p1.com/");}
+function linkqqjanji(){location.replace("https://qqbos99p1.com/");}
+function linkqqjalur(){location.replace("https://qqbos99p1.com/");}
+function linkqqmadu(){location.replace("https://qqbos99p1.com/");}
 function linkqqbali(){location.replace("https://qqbos99p1.com/");}
 function linkqqjawa(){location.replace("https://qqbos99p1.com/");}
 function linkqqkalimantan(){location.replace("https://qqbos99p1.com/");}
