@@ -1,5 +1,6 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqmeledak(){location.replace("https://qqbos99p1.com/");}
 function linkqqa(){location.replace("https://qqbos99p1.com/");}
 function linkqqb(){location.replace("https://qqbos99p1.com/");}
 function linkqqc(){location.replace("https://qqbos99p1.com/");}
