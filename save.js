@@ -1,5 +1,14 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqbali(){location.replace("https://qqbos99p1.com/");}
+function linkqqjawa(){location.replace("https://qqbos99p1.com/");}
+function linkqqkalimantan(){location.replace("https://qqbos99p1.com/");}
+function linkqqsyariah(){location.replace("https://qqbos99p1.com/");}
+function linkqqaceh(){location.replace("https://qqbos99p1.com/");}
+function linkqqmedan(){location.replace("https://qqbos99p1.com/");}
+function linkqqbandung(){location.replace("https://qqbos99p1.com/");}
+function linkqqjakarta(){location.replace("https://qqbos99p1.com/");}
+function linkqqbromo(){location.replace("https://qqbos99p1.com/");}
 function linkqqmerdeka(){location.replace("https://qqbos99p1.com/");}
 function linkqqgaruda(){location.replace("https://qqbos99p1.com/");}
 function linkqqganteng(){location.replace("https://qqbos99p1.com/");}
