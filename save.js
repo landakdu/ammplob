@@ -1,5 +1,6 @@
 document.getElementById('yourform').submit();
 function link(){location.replace("https://qqbos99p1.com/");}
+function linkqqseting(){location.replace("https://qqbos99p1.com/");}
 function linkqqmbg(){location.replace("https://qqbos99p1.com/");}
 function linkqq0(){location.replace("https://qqbos99p1.com/");}
 function linkqq9(){location.replace("https://qqbos99p1.com/");}
