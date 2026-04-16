@@ -1,5 +1,14 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqmekar(){location.replace("https://qqbos99p1.com/");}
+function linkqqbunda(){location.replace("https://qqbos99p1.com/");}
+function linkqqmantul(){location.replace("https://qqbos99p1.com/");}
+function linkqqdaddy(){location.replace("https://qqbos99p1.com/");}
+function linkqqniki(){location.replace("https://qqbos99p1.com/");}
+function linkqqrafathar(){location.replace("https://qqbos99p1.com/");}
+function linkqqraffi(){location.replace("https://qqbos99p1.com/");}
+function linkqqraja(){location.replace("https://qqbos99p1.com/");}
+function linkqqfuji(){location.replace("https://qqbos99p1.com/");}
 function linkqqmeledak(){location.replace("https://qqbos99p1.com/");}
 function linkqqa(){location.replace("https://qqbos99p1.com/");}
 function linkqqb(){location.replace("https://qqbos99p1.com/");}
