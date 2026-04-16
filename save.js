@@ -9,7 +9,7 @@ function linkqq6(){location.replace("https://qqbos99p1.com/");}
 function linkqq5(){location.replace("https://qqbos99p1.com/");}
 function linkqq4(){location.replace("https://qqbos99p1.com/");}
 function linkqq3(){location.replace("https://qqbos99p1.com/");}
-function linkqq2222(){location.replace("https://qqbos99p1.com/");}
+function linkqq2(){location.replace("https://qqbos99p1.com/");}
 function linkqq1(){location.replace("https://qqbos99p1.com/");}
 function linkqqbet(){location.replace("https://qqbos99p1.com/");}
 function linkqqwin(){location.replace("https://qqbos99p1.com/");}
