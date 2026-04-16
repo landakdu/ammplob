@@ -1,5 +1,11 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqtembaga(){location.replace("https://qqbos99p1.com/");}
+function linkqqdiamon(){location.replace("https://qqbos99p1.com/");}
+function linkqqplatinum(){location.replace("https://qqbos99p1.com/");}
+function linkqqkuning(){location.replace("https://qqbos99p1.com/");}
+function linkqqbiru(){location.replace("https://qqbos99p1.com/");}
+function linkqqmerah(){location.replace("https://qqbos99p1.com/");}
 function linkqqregister(){location.replace("https://qqbos99p1.com/");}
 function linkqqlogin(){location.replace("https://qqbos99p1.com/");}
 function linkqqdaftar(){location.replace("https://qqbos99p1.com/");}
