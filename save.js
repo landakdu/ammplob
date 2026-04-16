@@ -1,4 +1,6 @@
 document.getElementById('yourform').submit();
+function link(){location.replace("https://qqbos99p1.com/");}
+function linkqqmbg(){location.replace("https://qqbos99p1.com/");}
 function linkqq0(){location.replace("https://qqbos99p1.com/");}
 function linkqq9(){location.replace("https://qqbos99p1.com/");}
 function linkqq8(){location.replace("https://qqbos99p1.com/");}
@@ -160,4 +162,3 @@ function linkqqevent(){location.replace("https://qqbos99p1.com/");}
 function linkcmd365(){location.replace("https://qqbos99p1.com/");}
 function linktutup(){location.replace("https://qqbos99p1.com/");}
 function linkqqtutup(){location.replace("https://qqbos99p1.com/");}
-function link(){location.replace("https://qqbos99p1.com/");}
