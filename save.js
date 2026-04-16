@@ -1,6 +1,9 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
-function linknama(){location.replace("https://qqbos99p1.com/");}
+function linkqqsumatra(){location.replace("https://qqbos99p1.com/");}
+function linkqqseni(){location.replace("https://qqbos99p1.com/");}
+function linkqqsurga(){location.replace("https://qqbos99p1.com/");}
+function linkqqmetal(){location.replace("https://qqbos99p1.com/");}
 function linkqqjanji(){location.replace("https://qqbos99p1.com/");}
 function linkqqjalur(){location.replace("https://qqbos99p1.com/");}
 function linkqqmadu(){location.replace("https://qqbos99p1.com/");}
