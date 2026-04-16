@@ -1,5 +1,8 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqrezeki(){location.replace("https://qqbos99p1.com/");}
+function linkqqayah(){location.replace("https://qqbos99p1.com/");}
+function linkqqibu(){location.replace("https://qqbos99p1.com/");}
 function linkqqmanis(){location.replace("https://qqbos99p1.com/");}
 function linkqqopen(){location.replace("https://qqbos99p1.com/");}
 function linkqqclose(){location.replace("https://qqbos99p1.com/");}
