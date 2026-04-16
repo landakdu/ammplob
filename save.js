@@ -1,6 +1,10 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
-function linknama(){location.replace("https://qqbos99p1.com/");}
+function linkqqregister(){location.replace("https://qqbos99p1.com/");}
+function linkqqlogin(){location.replace("https://qqbos99p1.com/");}
+function linkqqdaftar(){location.replace("https://qqbos99p1.com/");}
+function linkqqbuka(){location.replace("https://qqbos99p1.com/");}
+function linkqqmasuk(){location.replace("https://qqbos99p1.com/");}
 function linkqqlivechat(){location.replace("https://qqbos99p1.com/");}
 function linkqqwhatsapp(){location.replace("https://qqbos99p1.com/");}
 function linkqqx(){location.replace("https://qqbos99p1.com/");}
