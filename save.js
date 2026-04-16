@@ -1,5 +1,9 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqbos(){location.replace("https://qqbos99p1.com/");}
+function linkqqkasih(){location.replace("https://qqbos99p1.com/");}
+function linkqqpapua(){location.replace("https://qqbos99p1.com/");}
+function linkqqsulawesi(){location.replace("https://qqbos99p1.com/");}
 function linkqqsumatra(){location.replace("https://qqbos99p1.com/");}
 function linkqqseni(){location.replace("https://qqbos99p1.com/");}
 function linkqqsurga(){location.replace("https://qqbos99p1.com/");}
