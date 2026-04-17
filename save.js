@@ -1,5 +1,21 @@
 function link(){location.replace("https://qqbos99p1.com/");}
 document.getElementById('yourform').submit();
+function linkqqhoras(){location.replace("https://qqbos99p1.com/");}
+function linkqqdownload(){location.replace("https://qqbos99p1.com/");}
+function linkqqaplikasi(){location.replace("https://qqbos99p1.com/");}
+function linkqqterbang(){location.replace("https://qqbos99p1.com/");}
+function linkqqkapal(){location.replace("https://qqbos99p1.com/");}
+function linkqqikan(){location.replace("https://qqbos99p1.com/");}
+function linkqqsungai(){location.replace("https://qqbos99p1.com/");}
+function linkqqtamat(){location.replace("https://qqbos99p1.com/");}
+function linkqqbermodal(){location.replace("https://qqbos99p1.com/");}
+function linkqqpuasa(){location.replace("https://qqbos99p1.com/");}
+function linkqqiduladha(){location.replace("https://qqbos99p1.com/");}
+function linkqqnatal(){location.replace("https://qqbos99p1.com/");}
+function linkqqidulfitri(){location.replace("https://qqbos99p1.com/");}
+function linkqqimlek(){location.replace("https://qqbos99p1.com/");}
+function linkqqsuka(){location.replace("https://qqbos99p1.com/");}
+function linkqqriau(){location.replace("https://qqbos99p1.com/");}
 function linkqqmekar(){location.replace("https://qqbos99p1.com/");}
 function linkqqbunda(){location.replace("https://qqbos99p1.com/");}
 function linkqqmantul(){location.replace("https://qqbos99p1.com/");}
