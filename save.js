@@ -1,5 +1,6 @@
 function link(){location.replace("https://qqmybet77p.com/");}
 document.getElementById('yourform').submit();
+function linkqqsibuk(){location.replace("https://qqmybet77p.com/");}
 function linkgohoki88(){location.replace("https://qqmybet77p.com/");}
 function linkqqhoras(){location.replace("https://qqmybet77p.com/");}
 function linkqqdownload(){location.replace("https://qqmybet77p.com/");}
