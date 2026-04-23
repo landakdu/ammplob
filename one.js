@@ -1,9 +1,9 @@
 var url = Array(
-  "https://24jamonline.pages.dev/",
-  "https://24jamonline.pages.dev/",
-  "https://24jamonline.pages.dev/",
-  "https://24jamonline.pages.dev/",
-  "https://24jamonline.pages.dev/"
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/",
+  "https://qqbos99p1.com/"
 );
 var rid = "";
 
