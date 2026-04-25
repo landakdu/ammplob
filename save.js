@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbos99p1.com/");}
+function linkkakekemas(){location.replace("https://qqbos99p1.com/");}
 function linkqqklik(){location.replace("https://qqbos99p1.com/");}
 function linkqqbettor(){location.replace("https://qqbos99p1.com/");}
 function linkqqbethard(){location.replace("https://qqbos99p1.com/");}
