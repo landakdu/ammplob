@@ -151,7 +151,6 @@ function linkqq3(){location.replace("https://qqbos99p1.com/");}
 function linkqq2(){location.replace("https://qqbos99p1.com/");}
 function linkqq1(){location.replace("https://qqbos99p1.com/");}
 function linkqqbet(){location.replace("https://qqbos99p1.com/");}
-function linkqqwin(){location.replace("https://qqbos99p1.com/");}
 function linkqqcmd368(){location.replace("https://qqbos99p1.com/");}
 function linkqqbti(){location.replace("https://qqbos99p1.com/");}
 function linkqqsaba(){location.replace("https://qqbos99p1.com/");}
