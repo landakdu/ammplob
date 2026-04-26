@@ -6,7 +6,6 @@ function linkqq222(){location.replace("https://qqbos99p1.com/");}
 function linkqqdwp(){location.replace("https://qqbos99p1.com/");}
 function linkqqspin268(){location.replace("https://qqbos99p1.com/");}
 function linkrajaslot666(){location.replace("https://qqbos99p1.com/");}
-function linkqqsuper99(){location.replace("https://qqbos99p1.com/");}
 function linktuk288(){location.replace("https://qqbos99p1.com/");}
 function linkbancrit365(){location.replace("https://qqbos99p1.com/");}
 function linkqqbola21(){location.replace("https://qqbos99p1.com/");}
