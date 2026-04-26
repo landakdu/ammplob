@@ -180,9 +180,7 @@ function linkqqjudi(){location.replace("https://qqbos99p1.com/");}
 function linkqqjimat(){location.replace("https://qqbos99p1.com/");}
 function linkqqmanjur(){location.replace("https://qqbos99p1.com/");}
 function linkqqbesar(){location.replace("https://qqbos99p1.com/");}
-function linkqqgaming(){location.replace("https://qqbos99p1.com/");}
 function linkqqhacksaw(){location.replace("https://qqbos99p1.com/");}
-function linkqqjili(){location.replace("https://qqbos99p1.com/");}
 function linkqqtoto(){location.replace("https://qqbos99p1.com/");}
 function linkqqplaytech(){location.replace("https://qqbos99p1.com/");}
 function linkqqmicrogaming(){location.replace("https://qqbos99p1.com/");}
