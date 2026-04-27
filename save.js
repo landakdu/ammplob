@@ -1,5 +1,5 @@
 function link(){location.replace("https://qqbos99p1.com/");}
-function linkqqbola77(){location.replace("#");}
+function linkqqbola77(){location.replace("https://qqbos99p1.com/");}
 function linkmaxspin77(){location.replace("https://qqbos99p1.com/");}
 function linkokegaming(){location.replace("https://qqbos99p1.com/");}
 function linkqq222(){location.replace("https://qqbos99p1.com/");}
@@ -280,7 +280,7 @@ function linkqqcasino(){location.replace("https://qqbos99p1.com/");}
 function linkqqcalo(){location.replace("https://qqbos99p1.com/");}
 function linkqqslebew(){location.replace("https://qqbos99p1.com/");}
 function linkbebek368(){location.replace("https://qqbos99p1.com/");}
-function linkqqbola(){location.replace("https://qqbos99p1.com/");}
+function linkqqbola(){location.replace("#");}
 function linkqqtopwin(){location.replace("https://qqbos99p1.com/");}
 function linkqqliga(){location.replace("https://qqbos99p1.com/");}
 function linkqqpremium(){location.replace("https://qqbos99p1.com/");}
