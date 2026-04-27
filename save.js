@@ -1,5 +1,5 @@
 function link(){location.replace("https://qqbos99p1.com/");}
-function linkqqbola77(){location.replace("https://qqbos99p1.com/");}
+function linkqqbola77(){location.replace("#");}
 function linkmaxspin77(){location.replace("https://qqbos99p1.com/");}
 function linkokegaming(){location.replace("https://qqbos99p1.com/");}
 function linkqq222(){location.replace("https://qqbos99p1.com/");}
