@@ -280,7 +280,7 @@ function linkqqcasino(){location.replace("https://qqbos99p1.com/");}
 function linkqqcalo(){location.replace("https://qqbos99p1.com/");}
 function linkqqslebew(){location.replace("https://qqbos99p1.com/");}
 function linkbebek368(){location.replace("https://qqbos99p1.com/");}
-function linkqqbola(){location.replace("#");}
+function linkqqbola(){location.replace("https://qqbos99p1.com/");}
 function linkqqtopwin(){location.replace("https://qqbos99p1.com/");}
 function linkqqliga(){location.replace("https://qqbos99p1.com/");}
 function linkqqpremium(){location.replace("https://qqbos99p1.com/");}
