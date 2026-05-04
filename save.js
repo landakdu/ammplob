@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linklivetogel(){location.replace("https://qqbos99u9.com/");}
 function linktogeltoto(){location.replace("https://qqbos99u9.com/");}
 function linkqqbola77(){location.replace("https://qqbos99u9.com/");}
 function linkmaxspin77(){location.replace("https://qqbos99u9.com/");}
