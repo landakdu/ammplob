@@ -1,4 +1,8 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkolympus188(){location.replace("https://qqbos99u9.com/");}
+function linktwinbet(){location.replace("https://qqbos99u9.com/");}
+function linkmpopoker(){location.replace("https://qqbos99u9.com/");}
+function linknexus88(){location.replace("https://qqbos99u9.com/");}
 function linkdewaslot88(){location.replace("https://qqbos99u9.com/");}
 function linkwisdom77(){location.replace("https://qqbos99u9.com/");}
 function linkjuarabet168(){location.replace("https://qqbos99u9.com/");}
