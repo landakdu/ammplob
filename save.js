@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkserbacasino(){location.replace("https://qqbos99u9.com/");}
 function linkeqn777(){location.replace("https://qqbos99u9.com/");}
 function linkagentaruhan(){location.replace("https://qqbos99u9.com/");}
 function linkarenabola(){location.replace("https://qqbos99u9.com/");}
