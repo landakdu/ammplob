@@ -1,4 +1,8 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkflash303(){location.replace("https://qqbos99u9.com/");}
+function linkamanah77(){location.replace("https://qqbos99u9.com/");}
+function linkibutogel(){location.replace("https://qqbos99u9.com/");}
+function linkligahoki89(){location.replace("https://qqbos99u9.com/");}
 function linkome88(){location.replace("https://qqbos99u9.com/");}
 function linkjetplay88(){location.replace("https://qqbos99u9.com/");}
 function linkyakinslot88(){location.replace("https://qqbos99u9.com/");}
