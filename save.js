@@ -1,4 +1,8 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkpmg88(){location.replace("https://qqbos99u9.com/");}
+function linkauto177(){location.replace("https://qqbos99u9.com/");}
+function linkcahaya268(){location.replace("https://qqbos99u9.com/");}
+function linksinarmas77(){location.replace("https://qqbos99u9.com/");}
 function linkflash303(){location.replace("https://qqbos99u9.com/");}
 function linkamanah77(){location.replace("https://qqbos99u9.com/");}
 function linkibutogel(){location.replace("https://qqbos99u9.com/");}
