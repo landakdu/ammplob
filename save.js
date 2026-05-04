@@ -1,4 +1,6 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkslotjp(){location.replace("https://qqbos99u9.com/");}
+function linkjpterus(){location.replace("https://qqbos99u9.com/");}
 function linkslot777(){location.replace("https://qqbos99u9.com/");}
 function linkslot88(){location.replace("https://qqbos99u9.com/");}
 function linkgaruda303(){location.replace("https://qqbos99u9.com/");}
