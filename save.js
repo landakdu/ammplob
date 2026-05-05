@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkmpowin(){location.replace("https://qqbos99u9.com/");}
 function linkmpo9(){location.replace("https://qqbos99u9.com/");}
 function linkmpo8(){location.replace("https://qqbos99u9.com/");}
 function linkmpo7(){location.replace("https://qqbos99u9.com/");}
