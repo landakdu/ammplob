@@ -1,4 +1,8 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkmpolike(){location.replace("https://qqbos99u9.com/");}
+function linkmpoklik(){location.replace("https://qqbos99u9.com/");}
+function linkmpoball(){location.replace("https://qqbos99u9.com/");}
+function linkmposoccer(){location.replace("https://qqbos99u9.com/");}
 function linkmpo1x2(){location.replace("https://qqbos99u9.com/");}
 function linkmpoasli(){location.replace("https://qqbos99u9.com/");}
 function linkmpobola(){location.replace("https://qqbos99u9.com/");}
