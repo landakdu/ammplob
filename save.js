@@ -1,4 +1,9 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkmpolink(){location.replace("https://qqbos99u9.com/");}
+function linkmpopusat(){location.replace("https://qqbos99u9.com/");}
+function linkmporesmi(){location.replace("https://qqbos99u9.com/");}
+function linkmpototo(){location.replace("https://qqbos99u9.com/");}
+function linkmpotogel(){location.replace("https://qqbos99u9.com/");}
 function linkslotjp(){location.replace("https://qqbos99u9.com/");}
 function linkjpterus(){location.replace("https://qqbos99u9.com/");}
 function linkslot777(){location.replace("https://qqbos99u9.com/");}
