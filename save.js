@@ -29,6 +29,7 @@ function linkligahoki89(){location.replace("https://qqbos99u9.com/");}
 function linkome88(){location.replace("https://qqbos99u9.com/");}
 function linkjetplay88(){location.replace("https://qqbos99u9.com/");}
 function linkyakinslot88(){location.replace("https://qqbos99u9.com/");}
+//
 function linkagenslot168(){location.replace("https://qqbos99u9.com/");}
 function linkjoki288(){location.replace("https://qqbos99u9.com/");}
 function linkolympus188(){location.replace("https://qqbos99u9.com/");}
@@ -38,7 +39,6 @@ function linknexus88(){location.replace("https://qqbos99u9.com/");}
 function linkdewaslot88(){location.replace("https://qqbos99u9.com/");}
 function linkwisdom77(){location.replace("https://qqbos99u9.com/");}
 function linkjuarabet168(){location.replace("https://qqbos99u9.com/");}
-//
 function linkfafa828(){location.replace("https://qqbos99u9.com/");}
 function linkserbacasino(){location.replace("https://qqbos99u9.com/");}
 function linkeqn777(){location.replace("https://qqbos99u9.com/");}
