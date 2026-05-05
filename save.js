@@ -1,4 +1,9 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkmportp(){location.replace("https://qqbos99u9.com/");}
+function linkmpoindonesia(){location.replace("https://qqbos99u9.com/");}
+function linkmpomaxwin(){location.replace("https://qqbos99u9.com/");}
+function linkmpodemo(){location.replace("https://qqbos99u9.com/");}
+function linkmpochat(){location.replace("https://qqbos99u9.com/");}
 function linkmpolike(){location.replace("https://qqbos99u9.com/");}
 function linkmpoklik(){location.replace("https://qqbos99u9.com/");}
 function linkmpoball(){location.replace("https://qqbos99u9.com/");}
