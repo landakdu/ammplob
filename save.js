@@ -1,4 +1,12 @@
 function link(){location.replace("https://qqbos99u9.com/");}
+function linkmpo1x2(){location.replace("https://qqbos99u9.com/");}
+function linkmpoasli(){location.replace("https://qqbos99u9.com/");}
+function linkmpobola(){location.replace("https://qqbos99u9.com/");}
+function linkmpogoal(){location.replace("https://qqbos99u9.com/");}
+function linkmpodepo(){location.replace("https://qqbos99u9.com/");}
+function linkmpotajir(){location.replace("https://qqbos99u9.com/");}
+function linkmposultan(){location.replace("https://qqbos99u9.com/");}
+function linkmpogas(){location.replace("https://qqbos99u9.com/");}
 function linkmpobet(){location.replace("https://qqbos99u9.com/");}
 function linkmpowin(){location.replace("https://qqbos99u9.com/");}
 function linkmpo9(){location.replace("https://qqbos99u9.com/");}
