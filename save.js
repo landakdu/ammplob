@@ -57,6 +57,7 @@ function linkpusatbet(){location.replace("https://qqbos99u9.com/");}
 function linkyamaha88bet(){location.replace("https://qqbos99u9.com/");}
 function linkspesial303(){location.replace("https://qqbos99u9.com/");}
 function linkkoin313(){location.replace("https://qqbos99u9.com/");}
+//
 function linkslotoppo88(){location.replace("https://qqbos99u9.com/");}
 function linkpepe77(){location.replace("https://qqbos99u9.com/");}
 function linkarobet88(){location.replace("https://qqbos99u9.com/");}
@@ -75,7 +76,6 @@ function linkligahoki89(){location.replace("https://qqbos99u9.com/");}
 function linkome88(){location.replace("https://qqbos99u9.com/");}
 function linkjetplay88(){location.replace("https://qqbos99u9.com/");}
 function linkyakinslot88(){location.replace("https://qqbos99u9.com/");}
-//
 function linkagenslot168(){location.replace("https://qqbos99u9.com/");}
 function linkjoki288(){location.replace("https://qqbos99u9.com/");}
 function linkolympus188(){location.replace("https://qqbos99u9.com/");}
