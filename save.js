@@ -40,6 +40,7 @@ function linkmpoqris(){location.replace("https://qqbos99u9.com/");}
 function linkmpowd(){location.replace("https://qqbos99u9.com/");}
 function linkmpojp(){location.replace("https://qqbos99u9.com/");}
 function linkmpositus(){location.replace("https://qqbos99u9.com/");}
+//
 function linkmpolink(){location.replace("https://qqbos99u9.com/");}
 function linkmpopusat(){location.replace("https://qqbos99u9.com/");}
 function linkmporesmi(){location.replace("https://qqbos99u9.com/");}
@@ -49,7 +50,6 @@ function linkbola69(){location.replace("https://qqbos99u9.com/");}
 function linkslotjp(){location.replace("https://qqbos99u9.com/");}
 function linkjpterus(){location.replace("https://qqbos99u9.com/");}
 function linkslot777(){location.replace("https://qqbos99u9.com/");}
-//
 function linkslot88(){location.replace("https://qqbos99u9.com/");}
 function linkgaruda303(){location.replace("https://qqbos99u9.com/");}
 function linkvietnam303(){location.replace("https://qqbos99u9.com/");}
