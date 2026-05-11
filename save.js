@@ -22,6 +22,7 @@ function linkmpo9(){location.replace("https://qqbos99u9.com/");}
 function linkmpo8(){location.replace("https://qqbos99u9.com/");}
 function linkmpo7(){location.replace("https://qqbos99u9.com/");}
 function linkmpo6(){location.replace("https://qqbos99u9.com/");}
+//
 function linkmpo5(){location.replace("https://qqbos99u9.com/");}
 function linkmpo4(){location.replace("https://qqbos99u9.com/");}
 function linkmpo3(){location.replace("https://qqbos99u9.com/");}
@@ -31,7 +32,6 @@ function linkmpo0(){location.replace("https://qqbos99u9.com/");}
 function linkmposea(){location.replace("https://qqbos99u9.com/");}
 function linkmpovip(){location.replace("https://qqbos99u9.com/");}
 function linkmpobri(){location.replace("https://qqbos99u9.com/");}
-//
 function linkmpobni(){location.replace("https://qqbos99u9.com/");}
 function linkmpobca(){location.replace("https://qqbos99u9.com/");}
 function linkmpogopay(){location.replace("https://qqbos99u9.com/");}
