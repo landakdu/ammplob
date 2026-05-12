@@ -6,6 +6,7 @@ function linkmpodemo(){location.replace("https://qqbos99u9.com/");}
 function linkmpochat(){location.replace("https://qqbos99u9.com/");}
 function linkmpolike(){location.replace("https://qqbos99u9.com/");}
 function linkmpoklik(){location.replace("https://qqbos99u9.com/");}
+//
 function linkmpoball(){location.replace("https://qqbos99u9.com/");}
 function linkmposoccer(){location.replace("https://qqbos99u9.com/");}
 function linkmpo1x2(){location.replace("https://qqbos99u9.com/");}
@@ -22,7 +23,6 @@ function linkmpo9(){location.replace("https://qqbos99u9.com/");}
 function linkmpo8(){location.replace("https://qqbos99u9.com/");}
 function linkmpo7(){location.replace("https://qqbos99u9.com/");}
 function linkmpo6(){location.replace("https://qqbos99u9.com/");}
-//
 function linkmpo5(){location.replace("https://qqbos99u9.com/");}
 function linkmpo4(){location.replace("https://qqbos99u9.com/");}
 function linkmpo3(){location.replace("https://qqbos99u9.com/");}
