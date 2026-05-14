@@ -1,4 +1,11 @@
 function link(){location.replace("https://qqbola69.com/");}
+function linkunyu16(){location.replace("https://qqbola69.com/");}
+function linkaltoge(){location.replace("https://qqbola69.com/");}
+function linkviva9(){location.replace("https://qqbola69.com/");}
+function linkjanjitot(){location.replace("https://qqbola69.com/");}
+function linkmega33(){location.replace("https://qqbola69.com/");}
+function linkmega77(){location.replace("https://qqbola69.com/");}
+function linkagen108(){location.replace("https://qqbola69.com/");}
 function linkmegawin28(){location.replace("https://qqbola69.com/");}
 function linkjackpot10(){location.replace("https://qqbola69.com/");}
 function linkganas3(){location.replace("https://qqbola69.com/");}
