@@ -1,4 +1,8 @@
 function link(){location.replace("https://qqbola69.com/");}
+function linkpsg7(){location.replace("https://qqbola69.com/");}
+function linkaresgaco(){location.replace("https://qqbola69.com/");}
+function linkbetonkli(){location.replace("https://qqbola69.com/");}
+function linkmaxwin6(){location.replace("https://qqbola69.com/");}
 function linkraintot(){location.replace("https://qqbola69.com/");}
 function linkagenplay8(){location.replace("https://qqbola69.com/");}
 function linkcukongbe(){location.replace("https://qqbola69.com/");}
