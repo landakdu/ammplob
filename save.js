@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbola69.com/");}
+function linknagahoki(){location.replace("https://qqbola69.com/");}
 //
 function linkmpovegas(){location.replace("https://qqbola69.com/");}
 function linklinkmpo(){location.replace("https://qqbola69.com/");}
