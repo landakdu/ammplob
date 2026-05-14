@@ -8,6 +8,7 @@ function linkmpochat(){location.replace("https://qqbola69.com/");}
 function linkmpolike(){location.replace("https://qqbola69.com/");}
 function linkmpoklik(){location.replace("https://qqbola69.com/");}
 //
+function linkairbet(){location.replace("https://qqbola69.com/");}
 function linkmpoball(){location.replace("https://qqbola69.com/");}
 function linkmposoccer(){location.replace("https://qqbola69.com/");}
 function linkmpo1x2(){location.replace("https://qqbola69.com/");}
