@@ -1,6 +1,6 @@
 function link(){location.replace("https://qqbola69.com/");}
 function linkmpovegas(){location.replace("https://qqbola69.com/");}
-function linktwinbet(){location.replace("https://qqbola69.com/");}
+function linklinkmpo(){location.replace("https://qqbola69.com/");}
 function linkmportp(){location.replace("https://qqbola69.com/");}
 function linkmpoindonesia(){location.replace("https://qqbola69.com/");}
 function linkmpomaxwin(){location.replace("https://qqbola69.com/");}
