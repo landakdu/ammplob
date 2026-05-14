@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbola69.com/");}
+function linkcindotot(){location.replace("https://qqbola69.com/");}
 function linkmaxslot88(){location.replace("https://qqbola69.com/");}
 function linkjoko4d(){location.replace("https://qqbola69.com/");}
 function linkkkslot77(){location.replace("https://qqbola69.com/");}
