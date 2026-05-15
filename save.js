@@ -79,7 +79,7 @@ function link7mmbe(){location.replace("https://qqbola69.com/");}
 function linkraya2(){location.replace("https://qqbola69.com/");}
 function linkrokok8(){location.replace("https://qqbola69.com/");}
 function linkkangtot(){location.replace("https://qqbola69.com/");}
-function linkketua77(){location.replace("https://qqbola69.com/");}
+function linkketua77(){location.replace("https://qqbola69.com/");}//
 function linkzonawin77(){location.replace("https://qqbola69.com/");}
 function linkhoki12(){location.replace("https://qqbola69.com/");}
 function linkraffi8(){location.replace("https://qqbola69.com/");}
@@ -97,7 +97,6 @@ function linkzeus(){location.replace("https://qqbola69.com/");}
 function linkgadrunsl(){location.replace("https://qqbola69.com/");}
 function linktokyo8(){location.replace("https://qqbola69.com/");}
 function linknagahoki(){location.replace("https://qqbola69.com/");}
-//
 function linkmpovegas(){location.replace("https://qqbola69.com/");}
 function linklinkmpo(){location.replace("https://qqbola69.com/");}
 function linkmportp(){location.replace("https://qqbola69.com/");}
