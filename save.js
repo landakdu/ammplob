@@ -52,6 +52,7 @@ function linkbmw10(){location.replace("https://qqbola69.com/");}
 function linkmacau8(){location.replace("https://qqbola69.com/");}
 function linksegar8(){location.replace("https://qqbola69.com/");}
 function linkjoker7(){location.replace("https://qqbola69.com/");}
+//
 function linkslotmacau18(){location.replace("https://qqbola69.com/");}
 function linkratu898(){location.replace("https://qqbola69.com/");}
 function linkcamar4444(){location.replace("https://qqbola69.com/");}
@@ -61,7 +62,6 @@ function linkgaruda30(){location.replace("https://qqbola69.com/");}
 function linkbos28(){location.replace("https://qqbola69.com/");}
 function linkfijislo(){location.replace("https://qqbola69.com/");}
 function linkneraka16(){location.replace("https://qqbola69.com/");}
-//
 function linkdragon22(){location.replace("https://qqbola69.com/");}
 function linkpsg7(){location.replace("https://qqbola69.com/");}
 function linkaresgaco(){location.replace("https://qqbola69.com/");}
