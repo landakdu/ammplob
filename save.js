@@ -1,4 +1,6 @@
 function link(){location.replace("https://qqbola69.com/");}
+function linkmpo2222(){location.replace("https://qqbola69.com/");}
+function linkmpo1111(){location.replace("https://qqbola69.com/");}
 function linkmpogacor888(){location.replace("https://qqbola69.com/");}
 function linkmpogacor77(){location.replace("https://qqbola69.com/");}
 function linkmpofreebet(){location.replace("https://qqbola69.com/");}
