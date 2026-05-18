@@ -1,4 +1,15 @@
 function link(){location.replace("https://qqbola69.com/");}
+function linkidntoge(){location.replace("https://qqbola69.com/");}
+function linkidnbola(){location.replace("https://qqbola69.com/");}
+function linkidnslot(){location.replace("https://qqbola69.com/");}
+function linkidncasino(){location.replace("https://qqbola69.com/");}
+function linkdewaqris(){location.replace("https://qqbola69.com/");}
+function linkdewagopay(){location.replace("https://qqbola69.com/");}
+function linkdewadana(){location.replace("https://qqbola69.com/");}
+function linkdewatoto(){location.replace("https://qqbola69.com/");}
+function linkdewatoge(){location.replace("https://qqbola69.com/");}
+function linkdewaovo(){location.replace("https://qqbola69.com/");}
+function linkovoslo(){location.replace("https://qqbola69.com/");}
 function linkug(){location.replace("https://qqbola69.com/");}
 function linkug0(){location.replace("https://qqbola69.com/");}
 function linkug9(){location.replace("https://qqbola69.com/");}
