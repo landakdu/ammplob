@@ -85,6 +85,7 @@ function linktalas8(){location.replace("https://qqbola69.com/");}
 function linktangandew(){location.replace("https://qqbola69.com/");}
 function linkidamantot(){location.replace("https://qqbola69.com/");}
 function linkunyu16(){location.replace("https://qqbola69.com/");}
+//
 function linkaltoge(){location.replace("https://qqbola69.com/");}
 function linkviva9(){location.replace("https://qqbola69.com/");}
 function linkjanjitot(){location.replace("https://qqbola69.com/");}
@@ -98,7 +99,6 @@ function link88meg(){location.replace("https://qqbola69.com/");}
 function linkmega88(){location.replace("https://qqbola69.com/");}
 function linkpkv(){location.replace("https://qqbola69.com/");}
 function linkbuayapoke(){location.replace("https://qqbola69.com/");}
-//
 function linkmega13(){location.replace("https://qqbola69.com/");}
 function linkmegaslot28(){location.replace("https://qqbola69.com/");}
 function linkmegaslot(){location.replace("https://qqbola69.com/");}
