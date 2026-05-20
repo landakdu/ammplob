@@ -519,6 +519,7 @@ function linkqqsport(){location.replace("https://qqbola69.info/");}
 function linkqqmaxwin(){location.replace("https://qqbola69.info/");}
 function linkqqgacor(){location.replace("https://qqbola69.info/");}
 function linkqq8838(){location.replace("https://qqbola69.info/");}
+function linkarenacuan99(){location.replace("https://qqbola69.info/");}
 function linkqq757bet(){location.replace("https://qqbola69.info/");}
 function linkqqfreeslot(){location.replace("https://qqbola69.info/");}
 function linkqq820(){location.replace("https://qqbola69.info/");}
