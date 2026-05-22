@@ -58,6 +58,7 @@ function linkiontoge(){location.replace("https://qqbola69.info/");}
 function linksbobet88(){location.replace("https://qqbola69.info/");}
 function linkbos13(){location.replace("https://qqbola69.info/");}
 function linkmolapla(){location.replace("https://qqbola69.info/");}
+//
 function linksobet8(){location.replace("https://qqbola69.info/");}
 function linksbobe(){location.replace("https://qqbola69.info/");}
 function link1xbe(){location.replace("https://qqbola69.info/");}
@@ -76,7 +77,6 @@ function linkmariatoge(){location.replace("https://qqbola69.info/");}
 function linksensa13(){location.replace("https://qqbola69.info/");}
 function linkcindotot(){location.replace("https://qqbola69.info/");}
 function linkmaxslot88(){location.replace("https://qqbola69.info/");}
-//
 function linkjoko4(){location.replace("https://qqbola69.info/");}
 function linkkkslot77(){location.replace("https://qqbola69.info/");}
 function linkmaxwin7(){location.replace("https://qqbola69.info/");}
