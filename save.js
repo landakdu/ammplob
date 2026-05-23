@@ -49,6 +49,7 @@ function linkuglink(){location.replace("https://qqbola69.info/");}
 function linkugresmi(){location.replace("https://qqbola69.info/");}
 function linkmpogacor8(){location.replace("https://qqbola69.info/");}
 function linkmpogaco(){location.replace("https://qqbola69.info/");}
+//
 function linkmpofreebet(){location.replace("https://qqbola69.info/");}
 function linkmpopromo(){location.replace("https://qqbola69.info/");}
 function linkmpobonus(){location.replace("https://qqbola69.info/");}
@@ -58,7 +59,6 @@ function linkiontoge(){location.replace("https://qqbola69.info/");}
 function linksbobet88(){location.replace("https://qqbola69.info/");}
 function linkbos13(){location.replace("https://qqbola69.info/");}
 function linkmolapla(){location.replace("https://qqbola69.info/");}
-//
 function linksobet8(){location.replace("https://qqbola69.info/");}
 function linksbobe(){location.replace("https://qqbola69.info/");}
 function link1xbe(){location.replace("https://qqbola69.info/");}
