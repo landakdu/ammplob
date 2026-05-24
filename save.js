@@ -31,6 +31,7 @@ function linkuggopay(){location.replace("https://qqbola69gol.com/");}
 function linkugovo(){location.replace("https://qqbola69gol.com/");}
 function linkugdana(){location.replace("https://qqbola69gol.com/");}
 function linkugdepo(){location.replace("https://qqbola69gol.com/");}
+//
 function linkugwd(){location.replace("https://qqbola69gol.com/");}
 function linkugjp(){location.replace("https://qqbola69gol.com/");}
 function linkugmaxwin(){location.replace("https://qqbola69gol.com/");}
@@ -49,7 +50,6 @@ function linkuglink(){location.replace("https://qqbola69gol.com/");}
 function linkugresmi(){location.replace("https://qqbola69gol.com/");}
 function linkmpogacor8(){location.replace("https://qqbola69gol.com/");}
 function linkmpogaco(){location.replace("https://qqbola69gol.com/");}
-//
 function linkmpofreebet(){location.replace("https://qqbola69gol.com/");}
 function linkmpopromo(){location.replace("https://qqbola69gol.com/");}
 function linkmpobonus(){location.replace("https://qqbola69gol.com/");}
