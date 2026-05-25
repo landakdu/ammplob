@@ -22,6 +22,7 @@ function linkug6(){location.replace("https://qqbola69gol.com/");}
 function linkug5(){location.replace("https://qqbola69gol.com/");}
 function linkug4(){location.replace("https://qqbola69gol.com/");}
 function linkug3(){location.replace("https://qqbola69gol.com/");}
+//
 function linkug2(){location.replace("https://qqbola69gol.com/");}
 function linkug1(){location.replace("https://qqbola69gol.com/");}
 function linkug11(){location.replace("https://qqbola69gol.com/");}
@@ -32,7 +33,6 @@ function linkuggopay(){location.replace("https://qqbola69gol.com/");}
 function linkugovo(){location.replace("https://qqbola69gol.com/");}
 function linkugdana(){location.replace("https://qqbola69gol.com/");}
 function linkugdepo(){location.replace("https://qqbola69gol.com/");}
-//
 function linkugwd(){location.replace("https://qqbola69gol.com/");}
 function linkugjp(){location.replace("https://qqbola69gol.com/");}
 function linkugmaxwin(){location.replace("https://qqbola69gol.com/");}
