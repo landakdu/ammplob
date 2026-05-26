@@ -11,6 +11,7 @@ function linkdewagopay(){location.replace("https://qqbola69gol.com/");}
 function linkdewadana(){location.replace("https://qqbola69gol.com/");}
 function linkdewatoto(){location.replace("https://qqbola69gol.com/");}
 function linkdewatoge(){location.replace("https://qqbola69gol.com/");}
+//
 function linkdewaovo(){location.replace("https://qqbola69gol.com/");}
 function linkovoslo(){location.replace("https://qqbola69gol.com/");}
 function linkug(){location.replace("https://qqbola69gol.com/");}
@@ -22,7 +23,6 @@ function linkug6(){location.replace("https://qqbola69gol.com/");}
 function linkug5(){location.replace("https://qqbola69gol.com/");}
 function linkug4(){location.replace("https://qqbola69gol.com/");}
 function linkug3(){location.replace("https://qqbola69gol.com/");}
-//
 function linkug2(){location.replace("https://qqbola69gol.com/");}
 function linkug1(){location.replace("https://qqbola69gol.com/");}
 function linkug11(){location.replace("https://qqbola69gol.com/");}
