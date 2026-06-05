@@ -463,6 +463,7 @@ function linkqqlinkaja(){location.replace("https://qqbola69gol.com/");}
 function linkqqgopay(){location.replace("https://qqbola69gol.com/");}
 function linkqqovo(){location.replace("https://qqbola69gol.com/");}
 function linkqqdana(){location.replace("https://qqbola69gol.com/");}
+function linkqqvocher(){location.replace("https://qqbola69gol.com/");}
 function linkqqmember(){location.replace("https://qqbola69gol.com/");}
 function linkqqramai(){location.replace("https://qqbola69gol.com/");}
 function linkqqnike(){location.replace("https://qqbola69gol.com/");}
