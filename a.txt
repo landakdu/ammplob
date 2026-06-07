@@ -11,16 +11,6 @@ qq6 c
 qq7 c
 qq8 c
 qq9 c
-qqlivechat a
-qqmasuk a
-qqbuka a
-qqdaftar a
-qqlogin b
-qqregister a
-qqmerah b
-qqbiru a
-qqkuning b
-qqplatinum a
 qqdiamon a
 qqtembaga a
 qqcahaya a
