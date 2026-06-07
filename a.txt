@@ -1,5 +1,5 @@
 abdulrahmanwahai
-
+alimuwardiwiharja
 
 qq0 c
 qq1 e
@@ -11,12 +11,6 @@ qq6 c
 qq7 c
 qq8 c
 qq9 c
-qqseting a
-qqlive b
-qqfacebook a
-qqtwitter a
-qqtelegram a
-qqwhatsapp a
 qqlivechat a
 qqmasuk a
 qqbuka a
