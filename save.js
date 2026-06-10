@@ -550,6 +550,7 @@ function linkqqokbet(){location.replace("https://qqbola69.net/");}
 function linkqqhobi(){location.replace("https://qqbola69.net/");}
 function linkqqfunworld(){location.replace("https://qqbola69.net/");}
 function linkqqlikebet(){location.replace("https://qqbola69.net/");}
+function linkqqserver(){location.replace("https://qqbola69.net/");}
 function linkqqsitus(){location.replace("https://qqbola69.net/");}
 function linkqqweb(){location.replace("https://qqbola69.net/");}
 function linkqqgroup(){location.replace("https://qqbola69.net/");}
