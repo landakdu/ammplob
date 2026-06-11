@@ -1,13 +1,3 @@
-qqganteng a
-qqgaruda b
-qqmerdeka
-qqbromo a
-qqjakarta a
-qqbandung a
-qqmedan a
-qqaceh a
-qqsyariah a
-qqkalimantan a
 qqjawa a
 qqbali c
 qqmadu a
