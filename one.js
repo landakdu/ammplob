@@ -1,5 +1,5 @@
 var url = Array(
-  "https://alternatif2.pages.dev/"
+  "https://qqbola69.org/"
 );
 var rid = "";
 
