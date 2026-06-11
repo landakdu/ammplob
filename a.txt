@@ -1,13 +1,3 @@
-qq0 c
-qq1 e
-qq2 b
-qq3 c
-qq4 b
-qq5 c
-qq6 c
-qq7 c
-qq8 c
-qq9 c
 qqganteng a
 qqgaruda b
 qqmerdeka
