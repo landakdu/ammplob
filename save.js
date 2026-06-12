@@ -566,3 +566,4 @@ function linkcmd365(){location.replace("https://qqbola69.org/");}
 function linktutup(){location.replace("https://qqbola69.org/");}
 function linkqqtutup(){location.replace("https://qqbola69.org/");}
 function linkiga(){location.replace("https://www.facebook.com/groups/gamers.or.id/");}
+function linkrepublikgamers(){location.replace("https://www.facebook.com/groups/republikgamers");}
