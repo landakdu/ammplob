@@ -1,4 +1,5 @@
 function link(){location.replace("https://qqbola69.org/");}
+document.getElementById('yourform').submit();
 function linkmahkota18(){location.replace("https://qqbola69.org/");}
 function linkidngacor(){location.replace("https://qqbola69.org/");}
 function linkidntoto(){location.replace("https://qqbola69.org/");}
@@ -282,7 +283,6 @@ function linkkakekemas(){location.replace("https://qqbola69.org/");}
 function linkqqklik(){location.replace("https://qqbola69.org/");}
 function linkqqbettor(){location.replace("https://qqbola69.org/");}
 function linkqqbethard(){location.replace("https://qqbola69.org/");}
-document.getElementById('yourform').submit();
 function linkqqsibuk(){location.replace("https://qqbola69.org/");}
 function linkgohoki88(){location.replace("https://qqbola69.org/");}
 function linkqqhoras(){location.replace("https://qqbola69.org/");}
@@ -565,3 +565,4 @@ function linkqqevent(){location.replace("https://qqbola69.org/");}
 function linkcmd365(){location.replace("https://qqbola69.org/");}
 function linktutup(){location.replace("https://qqbola69.org/");}
 function linkqqtutup(){location.replace("https://qqbola69.org/");}
+function linkiga(){location.replace("https://www.facebook.com/groups/gamers.or.id/");}
