@@ -555,6 +555,7 @@ function linkqqlikebet(){location.replace("https://qqbola69.org/");}
 function linkqqserver(){location.replace("https://qqbola69.org/");}
 function linkqqsitus(){location.replace("https://qqbola69.org/");}
 function linkqqweb(){location.replace("https://qqbola69.org/");}
+function linkgroup(){location.replace("https://qqbola69.org/");}
 function linkqqgroup(){location.replace("https://qqbola69.org/");}
 function linkrajabingo(){location.replace("https://qqbola69.org/");}
 function linkqqbetway(){location.replace("https://qqbola69.org/");}
