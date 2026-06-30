@@ -1,5 +1,6 @@
 function link(){location.replace("https://qqbola69.org/");}
 document.getElementById('yourform').submit();
+function linkqqpragmaticplay(){location.replace("https://qqbola69.org/");}
 function linkqqjili(){location.replace("https://qqbola69.org/");}
 function linkqqmitra(){location.replace("https://qqbola69.org/");}
 function linkqqsportbook(){location.replace("https://qqbola69.org/");}
