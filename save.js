@@ -1,5 +1,6 @@
 function link(){location.replace("https://alternatif2.pages.dev/");}
 document.getElementById('yourform').submit();
+function linkidnpoker(){location.replace("https://alternatif2.pages.dev/");}
 function linkqqpragmaticplay(){location.replace("https://alternatif2.pages.dev/");}
 function linkqqjili(){location.replace("https://alternatif2.pages.dev/");}
 function linkqqmitra(){location.replace("https://alternatif2.pages.dev/");}
