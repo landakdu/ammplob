@@ -1,5 +1,9 @@
 var url = Array(
-  "https://alternatif2.pages.dev/"
+  "https://qqbola69.com/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69.info/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69bet.com/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69.net/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69.org/Member/StreamlinedRegister?R=EF5A9B3C"
 );
 var rid = "";
 
@@ -20,6 +24,5 @@ function jump() {
         put();
     }
 }
-
 
 jump();
