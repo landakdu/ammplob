@@ -381,7 +381,7 @@ function linkiontoge(){location.replace("https://alternatif2.pages.dev/");}
 function linksbobet88(){location.replace("https://alternatif2.pages.dev/");}
 function linkbos13(){location.replace("https://alternatif2.pages.dev/");}
 function linkmolapla(){location.replace("https://alternatif2.pages.dev/");}
-function linksobet8(){location.replace("https://alternatif2.pages.dev/");}
+function linksobet(){location.replace("https://alternatif2.pages.dev/");}
 function linksbobe(){location.replace("https://alternatif2.pages.dev/");}
 function link1xbe(){location.replace("https://alternatif2.pages.dev/");}
 function linktokekwi(){location.replace("https://alternatif2.pages.dev/");}
