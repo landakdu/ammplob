@@ -1,6 +1,6 @@
 var url = Array(
   "https://qqbola69a.com/Member/StreamlinedRegister?R=EF5A9B3C",
-  "https://qqbola69.info/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69a.com/Member/StreamlinedRegister?R=EF5A9B3C",
   "https://qqbola69bet.com/Member/StreamlinedRegister?R=EF5A9B3C",
   "https://qqbola69.org/Member/StreamlinedRegister?R=EF5A9B3C"
 );
