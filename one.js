@@ -1,5 +1,5 @@
 var url = Array(
-  "https://qqbola69.xyz/?R=EF5A9B3C",
+  "https://qqbola69c.net/?R=EF5A9B3C",
   "https://qqbola69.xyz/?R=EF5A9B3C"
 );
 var rid = "";
