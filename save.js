@@ -1,6 +1,13 @@
 function link(){location.replace("https://mampirdulu.pages.dev/");}
 document.getElementById('yourform').submit();
 //
+function linkhokicuan303(){location.replace("https://mampirdulu.pages.dev/");}
+function linkmega38(){location.replace("https://mampirdulu.pages.dev/");}
+function linkfifa234(){location.replace("https://mampirdulu.pages.dev/");}
+function linkstarbet178(){location.replace("https://mampirdulu.pages.dev/");}
+function linkcoin303(){location.replace("https://mampirdulu.pages.dev/");}
+function link(){location.replace("https://mampirdulu.pages.dev/");}
+function linknekojp88(){location.replace("https://mampirdulu.pages.dev/");}
 function linkpasukan88vip(){location.replace("https://mampirdulu.pages.dev/");}
 function linkbiropay28vip(){location.replace("https://mampirdulu.pages.dev/");}
 function linkwg87vip(){location.replace("https://mampirdulu.pages.dev/");}
