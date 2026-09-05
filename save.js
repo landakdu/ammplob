@@ -1,4 +1,5 @@
 function link(){location.replace("https://mampirdulu.pages.dev/");}
+function linkgoogle(){location.replace("https://google.com/");}
 document.getElementById('yourform').submit();
 //
 function linkwg87qq(){location.replace("https://mampirdulu.pages.dev/");}
