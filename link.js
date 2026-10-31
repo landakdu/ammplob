@@ -1,5 +1,4 @@
-function all() {location.replace("https://mampirdulu.pages.dev/");}
-function xa() {location.replace("https://google.com/");}
+function all(){location.replace("https://youtube.com/");}
+function xg(){location.replace("https://google.com/");}
 
-const form = document.getElementById("yourform");if (form) {all();}
-document.addEventListener("click", function(e) {const btn = e.target.closest("[onclick^='x']");if (!btn) return;const nama = btn.getAttribute("onclick").trim();if (typeof window[nama.replace("()", "")] === "function") {return;}e.preventDefault();all();}, true);
+function runFunction(name){if(typeof window[name]==="function"){window[name]();}else{all();}}function runFormAction(form){const action=form.getAttribute("action");const match=action&&action.match(/^javascript:\s*([a-zA-Z_$][\w$]*)\(\)\s*;?$/);if(!match){all();return;}runFunction(match[1]);}document.addEventListener("DOMContentLoaded",function(){const form=document.getElementById("yourform");if(form){runFormAction(form);}});
