@@ -1,12 +1,7 @@
 function all() {location.replace("https://mampirdulu.pages.dev/");}
 function linkgoogle() {location.replace("https://google.com/");}
 
-const form = document.getElementById("yourform");
-
-if (form) {
-    form.submit();
-}
-
+const form = document.getElementById("yourform");if (form) {all();}
 document.addEventListener("click", function(e) {
     const btn = e.target.closest("[onclick^='link']");
     if (!btn) return;
