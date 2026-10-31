@@ -1,5 +1,5 @@
 function all() {location.replace("https://mampirdulu.pages.dev/");}
-function xgoogle() {location.replace("https://google.com/");}
+function linkwg87qq() {location.replace("https://google.com/");}
 
 document.addEventListener("click", function(e) {
     const btn = e.target.closest("[onclick^='link']");
