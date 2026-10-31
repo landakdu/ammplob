@@ -7,8 +7,10 @@ document.addEventListener("click", function(e) {
 
     const nama = btn.getAttribute("onclick").trim();
 
-    if (nama !== "link5()") {
-        e.preventDefault();
-        all();
+    if (typeof window[nama.replace("()", "")] === "function") {
+        return;
     }
+
+    e.preventDefault();
+    all();
 }, true);
